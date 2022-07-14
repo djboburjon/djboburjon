@@ -11,9 +11,9 @@
 <code><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png?w=360" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="30px"></code>
-<code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
-<code><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width="30px"></code>
+<code><img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"></code>
 
 <br />
 
