@@ -19,4 +19,4 @@
 
 - 📍 &nbsp; Current location: Uzbekistan Anywhere
 - 📝&nbsp; Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: [@djboburdev@gmail.com](https://www.instagram.com/dj.boburjon/)
+- 📨&nbsp; How to reach me: [djboburdev@gmail.com](https://www.instagram.com/dj.boburjon/)
