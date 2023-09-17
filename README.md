@@ -12,6 +12,7 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="38px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width="30px"></code>
+<code><img src="[https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Ftailwind-css-logo-vector-53238.html&psig=AOvVaw2mhL5mxrlmUuifHFA0AYoK&ust=1695021594536000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCCo9eNsYEDFQAAAAAdAAAAABAJ)" width="30px"></code>
 <code><img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="50px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="32px"></code>
 
