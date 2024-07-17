@@ -18,7 +18,7 @@ I'm a passionate front-end developer with a love for creating beautiful, respons
 • 🛠️ Contributions to open-source projects
 
 <br />
-### Let's Connect!
+<h3>Let's Connect!</h2>
 
 - 📍 &nbsp; Current location: Fergana Uzbekistan<br />
 - 💼&nbsp; [LinkedIn](https://www.linkedin.com/in/boburbek-dadajonov-6383a2246/?locale=en_US)<br />
